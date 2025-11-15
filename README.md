@@ -17,8 +17,7 @@ A comprehensive signal visualization and analysis tool for MDF (Measurement Data
 
 ### Prerequisites
 
-- Python 3.8 or higher
-- Windows operating system (for the pre-built executable)
+- Windows operating system
 
 ### Using Pre-built Executable
 
