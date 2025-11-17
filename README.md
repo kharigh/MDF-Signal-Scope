@@ -1,3 +1,6 @@
+# Tutorial:
+![Tutorial](docs/TUTORIAL.md)
+
 # Changes 0.1.0b:
 - Added default option for signal line width
 - Patched bugs in Marker
