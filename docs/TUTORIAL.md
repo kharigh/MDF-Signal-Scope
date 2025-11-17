@@ -1,8 +1,6 @@
 # SignalScope — Full Feature Tutorial
 
-This guide walks you through SignalScope’s UI and all features using the packaged app in `dist/SignalScope.exe`. It includes screenshot placeholders and capture instructions so you can fill the tutorial with real images from your build.
-
-> Tip: All keyboard/mouse actions below apply to every plot unless noted. The bottom plot shows the X axis, and all plots are X‑linked.
+This guide walks you through SignalScope’s UI and all features using the packaged app in `dist/SignalScope.exe`. 
 
 ---
 
@@ -224,3 +222,4 @@ Screenshot: `docs/images/highlight-selected.png`
 - Supported data: `*.mf4`, `*.mdf` via `asammdf`.
 - Value formatting: if conversion tables exist, table values use conversion; otherwise numeric.
 - X‑linking: all panels share the X axis; bottom plot is the master for ticks and labels.
+
