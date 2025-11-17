@@ -1,3 +1,7 @@
+# Changes 0.1.0b:
+- Added default option for signal line width
+- Patched bugs in Marker
+
 # SignalScope
 
 A comprehensive signal visualization and analysis tool for MDF (Measurement Data Format) files.
